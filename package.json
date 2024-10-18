@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-common",
+  "name": "@zluck7/eslint-config-common",
   "version": "0.0.1",
   "main": "index.mjs",
   "scripts": {
